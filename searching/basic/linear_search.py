@@ -7,4 +7,6 @@ def linear_search(input: list, target: int):
             return indx
         
 print(linear_search(input, target))
+
+# Time complexity : O(n)
         

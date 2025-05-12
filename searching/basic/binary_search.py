@@ -17,4 +17,6 @@ def binary_search(input, target):
 
 print(binary_search(input, target))
 
+# Time complexity : O(logn)
+
 

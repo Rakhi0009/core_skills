@@ -21,4 +21,3 @@ def max_sum_subarray(nums):
 
 print(max_sum_subarray(nums))
     
-
